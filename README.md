@@ -1,2 +1,3 @@
 # Data-Science-Online-Job-Support
-Data Science Online Job Support provides expert assistance for data professionals handling real-time projects. Get support with data analysis, machine learning, modeling, troubleshooting, and reporting. Flexible plans include proxy support, part-time, and full-time online assistance to meet job demands.
+
+[Data Science Online Job Support](https://proxyjobsupport.com/data-science-online-job-support/) offers comprehensive assistance with data science tasks and projects. Get help with data analysis, modeling, machine learning basics, troubleshooting, and best practices. Real-time support options include proxy support, weekly, bi-weekly, monthly, or full-time engagement to match your job requirements.:contentReference
